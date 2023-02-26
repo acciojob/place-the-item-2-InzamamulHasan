@@ -1,2 +1,13 @@
-
+.container{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+	
+}
+.child{
+	padding:20px;
+	background-color:green;
+	
+}
 /* Your CSS Code here. */
